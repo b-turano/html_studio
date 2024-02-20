@@ -1,2 +1,2 @@
-# html_studio
-Tutorial scripts and more for web dev
+# HTML, CSS, JS tutorials
+Tutorial scripts and more for web design and front end development. 
